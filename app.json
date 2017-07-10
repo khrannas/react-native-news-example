@@ -1,5 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "18.0.0"
+    "sdkVersion": "18.0.0",
+    "name": "React Native News Example",
+    "slug": "react-native-news-example",
+    "android": {
+      "package": "com.khrannas.rnnewsexpl",
+      "versionCode": 4
+    },
   }
 }
